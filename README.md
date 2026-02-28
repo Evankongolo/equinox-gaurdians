@@ -1,2 +1,2 @@
 # equinox-gaurdians
-AI novel generate to website for creating structure story wolds and chapters
+AI novel generator website for creating structured story worlds and chapters.
